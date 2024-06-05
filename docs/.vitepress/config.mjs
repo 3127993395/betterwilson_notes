@@ -9,6 +9,8 @@ export default defineConfig({
         // https://vitepress.dev/reference/default-theme-config
         siteTitle: "BetterWilson Notes",
 
+        logo: "logo.png",
+
         nav: [
             {
                 text: 'Python', items: [
@@ -51,8 +53,8 @@ export default defineConfig({
                     {text: 'is和==的关系', link: '/python/supplement/IsAnd=='},
                     {text: 'python中的常见内置类型分类', link: '/python/supplement/BuiltInTypes'},
                     {text: 'type,object,class三者关系', link: '/python/supplement/TypeAndObjectAndClass'},
-                    {text: 'type元类', link: '/python/type'},
-                    {text: 'socket模块', link: '/python/socket'},
+                    {text: 'type元类', link: '/python/supplement/type'},
+                    {text: 'socket模块', link: '/python/supplement/socket'},
                 ]
             },
             '/git': {
