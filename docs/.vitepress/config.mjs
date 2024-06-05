@@ -11,6 +11,10 @@ export default defineConfig({
 
         logo: "logo.png",
 
+        head:[
+            ['link',{rel:'icon',href:'/favicon.ico'}],
+        ],
+
         nav: [
             {
                 text: 'Python', items: [
