@@ -12,9 +12,9 @@ hero:
   actions:
     - theme: brand
       text: Notes
-      link: /
+      link: /django/Django-admin
     - theme: alt
-      text: Ideas
+      text: Login/Register
       link: /
 
 features:

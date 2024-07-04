@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a,a1 as n}from"./chunks/framework.DTR-fORK.js";const x=JSON.parse('{"title":"Linux","description":"","frontmatter":{},"headers":[],"relativePath":"linux/index.md","filePath":"linux/index.md"}'),o={name:"linux/index.md"},r=n("",8),i=[r];function s(c,h,l,p,_,d){return a(),t("div",null,i)}const f=e(o,[["render",s]]);export{x as __pageData,f as default};
