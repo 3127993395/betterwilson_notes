@@ -12,7 +12,7 @@ export default defineConfig({
 		logo: "logo.png",
 
 		head: [
-			['link', {rel: 'icon', href: '/favicon.ico'}],
+			['link', {rel: 'icon', href: '/logo.png'}],
 		],
 
 		nav: [
@@ -26,6 +26,8 @@ export default defineConfig({
 			{text: 'Git', link: '/git/'},
 			{text: 'Django', link: '/django/'},
 			{text: 'DRF', link: '/drf/'},
+			// {text: 'Go', link: '/go/'},
+			{text: 'Gin', link: '/gin/'},
 			{text: 'Vue', link: '/vue/'},
 			{text: 'Redis', link: '/redis/'},
 			{text: 'Linux', link: '/linux/'},
@@ -69,7 +71,7 @@ export default defineConfig({
 				]
 			},
 			'/git': {
-				text: 'GIT',
+				text: 'Git',
 				items: [
 					{text: 'Git常用命令清单', link: '/git/GitUseful'},
 				]
@@ -133,13 +135,19 @@ export default defineConfig({
 				]
 			},
 			'/vue': {
-				text: 'vue',
+				text: 'Vue',
 				items: [
 					{text: 'vue知识点', link: '/vue/notes'},
 					{text: 'vue-router', link: '/vue/router'},
 					{text: 'vue-pinia', link: '/vue/pinia'},
 					{text: 'vue-axios', link: '/vue/axios'},
 					{text: 'vue-cookie', link: '/vue/cookie'},
+				]
+			},
+			'/gin': {
+				text: 'Gin',
+				items: [
+					{text: 'gin路由框架', link: '/gin/gin-router'},
 				]
 			},
 		},
