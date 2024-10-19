@@ -1,1 +1,0 @@
-import{_ as a,c as o,o as e,a1 as t}from"./chunks/framework.DCKU21so.js";const f=JSON.parse('{"title":"Hadoop","description":"","frontmatter":{},"headers":[],"relativePath":"hadoop/index.md","filePath":"hadoop/index.md"}'),d={name:"hadoop/index.md"},n=t("",4),p=[n];function r(s,h,_,i,c,l){return e(),o("div",null,p)}const u=a(d,[["render",r]]);export{f as __pageData,u as default};

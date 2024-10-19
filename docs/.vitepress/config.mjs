@@ -6,6 +6,11 @@ export default defineConfig({
 	description: "Notes from BetterWilson",
 	ignoreDeadLinks: true,
 	themeConfig: {
+
+		search: {
+			provider: 'local'
+		},
+
 		// https://vitepress.dev/reference/default-theme-config
 		siteTitle: "BetterWilson Notes",
 

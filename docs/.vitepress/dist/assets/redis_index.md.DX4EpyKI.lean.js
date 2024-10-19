@@ -1,1 +1,0 @@
-import{_ as e,c as a,o as t,a1 as s}from"./chunks/framework.DCKU21so.js";const f=JSON.parse('{"title":"Redis","description":"","frontmatter":{},"headers":[],"relativePath":"redis/index.md","filePath":"redis/index.md"}'),i={name:"redis/index.md"},r=s("",12),d=[r];function n(h,o,p,l,_,c){return t(),a("div",null,d)}const R=e(i,[["render",n]]);export{f as __pageData,R as default};
