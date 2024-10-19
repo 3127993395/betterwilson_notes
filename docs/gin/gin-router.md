@@ -65,7 +65,7 @@ Priority   Path             Handle
 
 下面的动图可以具体展示出如何搭建Radix Tree
 
-![addroute](assets/addroute.gif)
+![addroute](assets/addRoute.gif)
 
 
 
