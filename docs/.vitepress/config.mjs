@@ -14,7 +14,7 @@ export default defineConfig({
 		// https://vitepress.dev/reference/default-theme-config
 		siteTitle: "BetterWilson Notes",
 
-		logo: "logo.png",
+		logo: "/logo.png",
 
 		head: [
 			['link', {rel: 'icon', href: '/logo.png'}],
